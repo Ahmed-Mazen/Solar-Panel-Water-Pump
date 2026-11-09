@@ -2,6 +2,15 @@
 
 An Arduino-based solar panel positioning system that uses four LDRs and two servos to continuously orient a solar panel toward the brightest light source. We also built an application to track the voltage and current (amps) in the circuit. Additionally, the system measures panel input voltage and load current, and allows LED control via serial commands.
 
+## Team
+
+|Member|GitHub Profile|
+|:----:|:-------------:|
+| Ahmed Bahaa | [@Ahmed-Mazen](https://github.com/Ahmed-Mazen) |
+| Ahmed Hany | [@Ahmedd-hanii](https://github.com/Ahmedd-hanii) |
+| Mohamed Mamdouh | [@MohamedAlmaasarawy](https://github.com/MohamedAlmaasarawy) |
+| Mohamed Tamer | [@Mohamed393652](https://github.com/Mohamed393652) |
+
 ## 🚀 Features
 
 - **Solar Panel Tracking**  
