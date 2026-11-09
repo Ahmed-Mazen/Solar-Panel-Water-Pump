@@ -2,15 +2,6 @@
 
 An Arduino-based solar panel positioning system that uses four LDRs and two servos to continuously orient a solar panel toward the brightest light source. We also built an application to track the voltage and current (amps) in the circuit. Additionally, the system measures panel input voltage and load current, and allows LED control via serial commands.
 
----
-
-## 📋 Contents
-
-- `tracker.ino` — Main Arduino sketch  
-- _(Add any wiring diagrams or supplemental files here)_
-
----
-
 ## 🚀 Features
 
 - **Solar Panel Tracking**  
@@ -28,8 +19,6 @@ An Arduino-based solar panel positioning system that uses four LDRs and two serv
 
 - **Serial-Controlled Status LED**  
   - Send `1` or `0` over Serial to turn the built-in LED (pin 13) ON/OFF  
-
----
 
 ## 🔧 Hardware Setup
 
@@ -56,13 +45,3 @@ An Arduino-based solar panel positioning system that uses four LDRs and two serv
 
 5. **Status LED**  
    - Built-in LED on pin 13  
-
----
-
-## ⚙️ Installation & Usage
-
-1. **Clone & open**  
-   ```bash
-   git clone https://github.com/your-username/solar-tracker.git
-   cd solar-tracker
-   open tracker.ino
